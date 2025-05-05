@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <h3 align="center"> &#x1f4c8; GitHub Stats</h3>
 <div align="center" >
     <a  href="https://github.com/Harivedha-wed">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oviya21-10&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oviya21-10&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oviya21-10&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ovyaa&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ovyaa&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ovyaa&theme=dark" width="32.5%">
     </a>
 </div>
 
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 <h3 align="center">Contribution Graph </h3>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oviya21-10&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ovyaa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
